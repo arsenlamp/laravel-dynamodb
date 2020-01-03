@@ -1,5 +1,5 @@
 <?php
-namespace RW\DynamoDb;
+namespace MallocApps\DynamoDb;
 use Aws\CommandInterface;
 use Aws\DynamoDb\DynamoDbClient;
 use Aws\DynamoDb\Marshaler;

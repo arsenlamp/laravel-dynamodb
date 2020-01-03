@@ -1,13 +1,13 @@
 {
-  "name": "revenuewire/dynamo-orm",
+  "name": "mallocapps/php-dynamodb-orm",
   "type": "library",
-  "description": "RW Dynamo ORM",
-  "homepage": "https://github.com/revenuewire/dynamo-orm",
+  "description": "PHP DynamoDB ORM",
+  "homepage": "https://github.com/mallocapps/php-dynamodb-orm",
   "license": "Apache-2.0",
   "authors": [
     {
       "name": "Scott Wang",
-      "email": "swang@revenuewire.com"
+      "email": "scott@malloc.sh"
     }
   ],
   "require": {
@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "RW\\": "src/"
+      "MallocApps\\": "src/"
     }
   },
   "require-dev": {
