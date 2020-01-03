@@ -2,7 +2,7 @@
   "name": "mallocapps/php-dynamodb-orm",
   "type": "library",
   "description": "PHP DynamoDB ORM",
-  "homepage": "https://github.com/mallocapps/php-dynamodb-orm",
+  "homepage": "https://bitbucket.org/malloc-apps/php-dynamodb-orm.git",
   "license": "Apache-2.0",
   "authors": [
     {
