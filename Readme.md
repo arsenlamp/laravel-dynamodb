@@ -1,5 +1,5 @@
 # Install
-composer require revenuewire/dynamodb-orm
+composer require mallocapps/php-dynamodb-orm
 
 # Configuration
 ```php
@@ -15,7 +15,7 @@ if (APPLICATION_ENV == "local" || APPLICATION_ENV == "qa") {
 Manually create object class.
 ```php
 <?php
-use RW\DynamoDb\Model;
+use MallocApps\DynamoDb\Model;
 
 class User extends Model
 {
